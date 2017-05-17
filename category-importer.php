@@ -113,3 +113,4 @@ function my_cool_plugin_settings_page() {
 
 
 
+git
